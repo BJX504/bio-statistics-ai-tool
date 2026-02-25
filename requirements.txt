@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+rpy2
+scipy
+statsmodels
+matplotlib
+seaborn
+plotly
+zhipuai
+pyarrow
